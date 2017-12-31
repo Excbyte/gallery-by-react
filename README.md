@@ -7,7 +7,7 @@ Gallery By React
 
 ## Demo & Examples
 
-Live demo: [http://materliu.github.io/gallery-by-react/](http://materliu.github.io/gallery-by-react/)
+Live demo: [https://yubaorong.github.io/gallery-by-react/](https://yubaorong.github.io/gallery-by-react/)
 
 To build the examples locally, run:
 
